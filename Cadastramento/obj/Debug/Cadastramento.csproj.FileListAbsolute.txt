@@ -1,0 +1,7 @@
+c:\users\2019100639\source\repos\Cadastramento\Cadastramento\bin\Debug\Cadastramento.exe.config
+c:\users\2019100639\source\repos\Cadastramento\Cadastramento\bin\Debug\Cadastramento.exe
+c:\users\2019100639\source\repos\Cadastramento\Cadastramento\bin\Debug\Cadastramento.pdb
+c:\users\2019100639\source\repos\Cadastramento\Cadastramento\obj\Debug\Cadastramento.csprojAssemblyReference.cache
+c:\users\2019100639\source\repos\Cadastramento\Cadastramento\obj\Debug\Cadastramento.csproj.CoreCompileInputs.cache
+c:\users\2019100639\source\repos\Cadastramento\Cadastramento\obj\Debug\Cadastramento.exe
+c:\users\2019100639\source\repos\Cadastramento\Cadastramento\obj\Debug\Cadastramento.pdb
